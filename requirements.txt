@@ -4,4 +4,3 @@ python-dotenv
 spacy
 flask_cors
 better_profanity
-subprocess
