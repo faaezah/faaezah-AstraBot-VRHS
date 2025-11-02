@@ -47,8 +47,10 @@ def chat():
 
 try:
     nlp = spacy.load("en_core_web_md")
-except Exception:
-    nlp = spacy.load("en_core_web_sm")
+except :
+    import subprocess
+    subprocess.run(["python", "-m", "spacy", "download", "en_core_web_md"])
+    nlp = spacy.load("en_core_web_md")
 
 profanity.load_censor_words()
 
