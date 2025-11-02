@@ -1,6 +1,6 @@
 # Astra: The Study Assistant That Teaches 🤖🎓
 
-Astra is a full-stack AI-powered study assistant built by Faaezah Ahmed Shaik for her Machine Learning club. This is not a collab, not a school assignment — it’s a solo mission to build something that actually helps students learn.
+Astra is a full-stack AI-powered study assistant built by Faaezah Ahmed Shaik for her Machine Learning club. It’s a solo mission to build something that actually helps students learn.
 
 ## 🧠 Why Astra Exists
 
